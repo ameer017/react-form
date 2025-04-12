@@ -1,6 +1,4 @@
-Below is the complete `README.md` content formatted as a single Markdown code block. Simply copy and paste it into your `README.md` file.
 
-```markdown
 # React Todo List with Editable Items
 
 A simple React Todo List application demonstrating controlled forms, prop drilling, dynamic list rendering, and support for editing and deleting todo items. The UI is built with [Tailwind CSS](https://tailwindcss.com/) for a responsive and modern look.
