@@ -1,7 +1,14 @@
 
 # React Form
 
-A simple React Todo List application demonstrating controlled forms, prop drilling, dynamic list rendering, and support for editing and deleting todo items. The UI is built with [Tailwind CSS](https://tailwindcss.com/) for a responsive and modern look.
+A simple React Todo List application demonstrating controlled forms, prop drilling, dynamic list rendering, and support for editing and deleting todo items. The UI is built with [Tailwind CSS](https://tailwindcss.com/) for a responsive and modern look. It demonstrates core React concepts like:
+
+- Props and Prop Drilling
+- Controlled Forms and Inputs
+- Lists, Keys, and Dynamic Rendering
+- Editing and Deleting Todos
+- Marking Todos as Completed
+- LocalStorage for persistence
 
 ---
 
@@ -17,13 +24,14 @@ A simple React Todo List application demonstrating controlled forms, prop drilli
 
 ---
 
-## Features
+## ✨ Features
 
-- **Add Todos:** Use a controlled input form to add new todo items.
-- **Edit Todos:** Easily switch a todo item into edit mode to update its text.
-- **Delete Todos:** Remove individual todo items from the list.
-- **Dynamic Rendering:** Render the list of todos dynamically with a unique key for each item.
-- **Tailwind CSS Styling:** Enjoy a modern, responsive UI styled with Tailwind CSS.
+- Add new todo items
+- Edit existing todo text
+- Delete individual todos
+- Mark todos as completed
+- State persistence with `localStorage`
+- Beautiful UI with TailwindCSS
 
 ---
 
