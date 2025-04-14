@@ -66,7 +66,7 @@ function App() {
         <input
           type="text"
           value={content}
-          onChange={() => updateContent(e.target.value)}
+          onChange={handleInputChange}
           className="border border-gray-300 p-2 rounded mr-2 focus:outline-none focus:ring-1 focus:ring-blue-300"
           placeholder="Enter a todo item"
         />
